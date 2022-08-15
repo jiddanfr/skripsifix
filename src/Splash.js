@@ -25,7 +25,7 @@ class Splash extends Component {
                         <Text style={{fontSize: 18}}>ENSIKLOPEDIA FIQIH</Text>
                         <Spinner size={50} type={'ThreeBounce'} color={'black'}></Spinner>
                     </View>
-                    <Text style={{textAlign: 'center', marginBottom: 10}}>version 1.0</Text>
+                    <Text style={{textAlign: 'center', marginBottom: 10}}>version beta</Text>
             </View>
          );
     }
